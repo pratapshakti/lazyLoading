@@ -1,0 +1,2 @@
+README.md  node_modules       package.json  src       text1.txt
+build	   package-lock.json  public	    text.txt
